@@ -1,1 +1,1 @@
-coursera_algoritms
+These are solutions to practical tasks of the course "Algorithms part 1 Princeton University" on the site "coursera .org".
